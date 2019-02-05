@@ -19,13 +19,4 @@ body {
 
 /* Write all remaining styles here */
 
-#header {
-	color: rgb(152, 173, 166);
-	font-size: 5em;
-	font-family: 'Libre Baskerville', serif;
-  margin: 10px auto;
-}
 
-#img {
-	border: 5px rgb(152, 173, 166) solid;
-}
